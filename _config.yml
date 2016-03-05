@@ -1,7 +1,7 @@
 name: M-Studios
 favicon: null
-layout_spectrum: 0.6032731540035456
-typography_spectrum: 0.6534614039119333
+layout_spectrum: 0.24841
+typography_spectrum: 0.44103
 title: M - Studios
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7996885487809777
+    - '#ffffff'
+    - '#393939'
+    - '#dc0000'
+    - '#9b9b9b'
+    - '#ef8283'
+  brandStrength: 0.9375
   lightness: 0.7826569525059313
-  saturation: 0.6560102985240519
+  saturation: 0.75
   rhythmicContrast: 0.41328870016150177
 purpose: []
