@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[M-Studios]]></title>
-        <description><![CDATA[M-Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[M - Studios]]></title>
+        <description><![CDATA[M - Studios]]></description>
+        <link>https://thegrid.ai/m-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 21:56:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 22:03:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/m-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#DíLoQueQuieras]]></title>
             <description><![CDATA[<article><h1>#DíLoQueQuieras</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c0749fe4ee36cf4f2dfb138006dffefccc594ec.png"></article>]]></description>
-            <link>undefineddiloquequieras/index.html</link>
+            <link>https://thegrid.ai/m-studios/diloquequieras/index.html</link>
             <guid isPermaLink="false">8ddd4b83-5083-4d75-82ab-e5e89069fdc8</guid>
-            <pubDate>Sat, 05 Mar 2016 21:56:46 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 22:02:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
