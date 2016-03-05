@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Deja que el mundo te vea, tal y como tú te vez. '
-datePublished: '2016-03-05T22:09:36.757Z'
-dateModified: '2016-03-05T22:09:35.989Z'
+description: 'Deja que el mundo te vea, tal y como tú te vez.  Fotografía Diseño Marketing y Community Manager Desde US$249.99'
+datePublished: '2016-03-05T22:12:26.836Z'
+dateModified: '2016-03-05T22:12:06.048Z'
 title: '#DíLoQueQuieras'
 author: []
 sourcePath: _posts/2016-03-05-diloquequieras.md
