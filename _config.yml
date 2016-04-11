@@ -1,6 +1,6 @@
 name: M-Studios
 favicon: null
-layout_spectrum: 0.33052
+layout_spectrum: 0.25451
 typography_spectrum: 0.16048
 title: M - Studios
 cta:
@@ -22,7 +22,7 @@ color:
     - '#265368'
     - '#feb63d'
     - '#668694'
-  brandStrength: 0.8125
+  brandStrength: 0.625
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.5
