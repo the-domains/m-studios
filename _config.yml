@@ -1,15 +1,5 @@
-name: M-Studios
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c7e236-aed8-406a-824c-e86b77eb8267.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f5ee3f4-a27e-4092-a8fa-a0971f37ccda.jpg
-layout_spectrum: 0.6338
+layout_spectrum: 0.6839592582546175
 typography_spectrum: 0.16048
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
 color:
   brandColors:
     - '#ffffff'
@@ -21,6 +11,16 @@ color:
   lightness: 0.5625
   saturation: 0.4375
   rhythmicContrast: 0.5
+name: M-Studios
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c7e236-aed8-406a-824c-e86b77eb8267.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f5ee3f4-a27e-4092-a8fa-a0971f37ccda.jpg
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: M - Studios
 author:
