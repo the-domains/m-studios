@@ -1,4 +1,4 @@
-layout_spectrum: 0.6839592582546175
+layout_spectrum: 0.19222836545668542
 typography_spectrum: 0.16048
 color:
   brandColors:
@@ -11,6 +11,8 @@ color:
   lightness: 0.5625
   saturation: 0.4375
   rhythmicContrast: 0.5
+coverPrefs:
+  filter: false
 name: M-Studios
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c7e236-aed8-406a-824c-e86b77eb8267.jpg
